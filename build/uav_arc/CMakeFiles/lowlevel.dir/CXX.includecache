@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oorozco/uav_arc/src/uav_arc/LowLevel.cpp
+ros/ros.h
+-
+stdlib.h
+-
+mavros_msgs/State.h
+-
+sensor_msgs/Imu.h
+-
+mavros_msgs/CommandBool.h
+-
+ros/service.h
+-
+

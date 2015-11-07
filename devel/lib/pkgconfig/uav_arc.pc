@@ -1,0 +1,8 @@
+prefix=/home/oorozco/uav_arc/devel
+
+Name: uav_arc
+Description: Description of uav_arc
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/oorozco/uav_arc/devel/lib 
+Requires: 

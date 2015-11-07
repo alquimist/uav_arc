@@ -1,0 +1,2 @@
+uav_arc
+-DCATKIN_DEVEL_PREFIX=/home/oorozco/uav_arc/devel -DCMAKE_INSTALL_PREFIX=/home/oorozco/uav_arc/install -G Unix Makefiles

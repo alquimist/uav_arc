@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "uav_arc")
+set(uav_arc_MAINTAINER "oorozco <oorozco@todo.todo>")
+set(uav_arc_DEPRECATED "")
+set(uav_arc_VERSION "0.0.0")
+set(uav_arc_BUILD_DEPENDS "roscpp")
+set(uav_arc_RUN_DEPENDS "roscpp")
+set(uav_arc_BUILDTOOL_DEPENDS "catkin")
